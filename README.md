@@ -12,6 +12,8 @@
  -pyperclip  ```pip install pyperclip```<br />
  -pyautogui ```pip install pyautogui```<br />
  
+ make sure you have ```words.txt``` and ```Run.py``` in the same directory
+ 
 # Instructions
  1. When its your turn press **f8** and it will run
  
