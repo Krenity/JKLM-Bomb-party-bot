@@ -3,6 +3,8 @@
  editing should be pretty simple as ive only known python for 5-6<br />
  weeks, everything it pretty self explanitory but feel free to add<br />
  comments and questions!
+ 
+ note: im very proud of this!
 
 
 # Requirements
