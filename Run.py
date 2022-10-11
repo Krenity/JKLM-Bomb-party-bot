@@ -7,7 +7,7 @@ listimport=[]
 matching=[]
 key=[]
 
-myfile = open('C:\\Users\\Philip\\OneDrive - Sandwell College\\Vs Code\Testing\\words.txt')
+myfile = open('words.txt')
 read = myfile.read()
 gamekeymatch = read.split("\n")
 myfile.close()
