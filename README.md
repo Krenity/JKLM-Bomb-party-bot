@@ -15,6 +15,6 @@
  make sure you have ```words.txt``` and ```Run.py``` in the same directory
  
 # Instructions
- 1. When its your turn press **f8** and it will run
+ 1. When its your turn press **f8**  whilst hovering over the given characters and it will run
  
  2. When its your turn again you can simply press **f8** again, this time your mouse can be anywhere, it doesnt matter (as long as page is in the same place and is open)
